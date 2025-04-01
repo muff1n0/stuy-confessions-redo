@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
+}
+
+@theme {
+    --font-poppins: "Poppins";
+}

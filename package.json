@@ -1,0 +1,24 @@
+{
+  "name": "stuy-confessions-redo",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/muff1n0/stuy-confessions-redo#readme",
+  "bugs": {
+    "url": "https://github.com/muff1n0/stuy-confessions-redo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muff1n0/stuy-confessions-redo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.17",
+    "tailwindcss": "^4.0.17"
+  }
+}
